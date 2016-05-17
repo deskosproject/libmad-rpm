@@ -1,0 +1,6 @@
+= DeskOS: libmad RPM
+
+This is the _libmad_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/libmad-0.15.1b-16.el7.nux.src.rpm[libmad-0.15.1b-16.el7.nux.src.rpm]
